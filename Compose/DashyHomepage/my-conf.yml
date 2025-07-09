@@ -1,0 +1,45 @@
+pageInfo:
+  title: Home Lab
+sections: # An array of sections
+- name: Example Section
+  icon: far fa-rocket
+  items:
+  - title: GitHub
+    description: Dashy source code and docs
+    icon: fab fa-github
+    url: https://github.com/Lissy93/dashy
+  - title: Issues
+    description: View open issues, or raise a new one
+    icon: fas fa-bug
+    url: https://github.com/Lissy93/dashy/issues
+- name: Dev Links
+  items:
+  - title: LukoshkoMedia
+    icon: favicon
+    url: http://lukoshko.local/#/dashboard
+  - title: LukoshkoObserverDB
+    icon: favicon
+    url: http://lukoshko.local:5050/browser/
+  - title: JetbrainsHack
+    icon: favicon
+    url: https://3.jetbra.in/
+  - title: Github
+    icon: favicon
+    url: https://github.com/Shkurkenko
+  - title: FreeV2RayServers
+    icon: favicon
+    url: https://vpnkeys.org/vless
+  - title: GitlabLukoshko
+    icon: favicon
+    url: https://lukoshko.local/dashboard/projects
+  - title: Mail
+    icon: favicon
+    url: https://e.mail.ru/inbox/
+  - title: GMail
+    icon: favicon
+    url: https://mail.google.com/mail/u/0/#inbox
+  - title: StcMoodle
+    icon: favicon
+    url: https://learning.stc-spb.ru/
+
+
